@@ -1,1 +1,1 @@
-test for CI project application
+tests for CI project application
