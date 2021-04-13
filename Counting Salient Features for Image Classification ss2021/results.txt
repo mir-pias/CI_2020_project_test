@@ -1,0 +1,33 @@
+default images 
+Accuracy of plane :  75 % 
+Accuracy of   car :  83 % 
+Accuracy of  bird :  48 % 
+Accuracy of   cat :  59 % 
+Accuracy of  deer :  67 % 
+Accuracy of   dog :  60 % 
+Accuracy of  frog :  83 % 
+Accuracy of horse :  66 % 
+Accuracy of  ship :  84 % 
+Accuracy of truck :  82 % 
+every other pixel replaced 
+Accuracy of plane :  78 % 
+Accuracy of   car :  83 % 
+Accuracy of  bird :  58 % 
+Accuracy of   cat :  50 % 
+Accuracy of  deer :  69 % 
+Accuracy of   dog :  52 % 
+Accuracy of  frog :  71 % 
+Accuracy of horse :  81 % 
+Accuracy of  ship :  79 % 
+Accuracy of truck :  74 % 
+center replaced 
+Accuracy of plane :  63 % 
+Accuracy of   car :  66 % 
+Accuracy of  bird :  32 % 
+Accuracy of   cat :  37 % 
+Accuracy of  deer :  55 % 
+Accuracy of   dog :  58 % 
+Accuracy of  frog :  68 % 
+Accuracy of horse :  59 % 
+Accuracy of  ship :  73 % 
+Accuracy of truck :  63 % 
