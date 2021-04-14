@@ -1,1 +1,1 @@
-tests for CI project application
+tests for CI/AI project application
